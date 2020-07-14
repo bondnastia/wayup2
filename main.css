@@ -1,0 +1,42 @@
+.htmlcode{
+    color: crimson;
+}
+.h2style{
+    background: green; 
+    color: honeydew;
+    font-size: 23px;
+}
+.search{
+    color:blue;
+    text-decoration: underline;
+}
+.h2have{
+    background: green;
+     color: honeydew; 
+     padding: 30px;
+      font-size: 25px;
+}
+.two-letter{
+    height: 97px;
+    width: 81px;
+    background: blue;
+    color: white;
+}
+.work2{
+    margin-top: 10vh;
+}
+.form{
+width: 653px;
+height: 20px;
+}
+.spiski{
+    margin-top: 50px;
+}
+.spiski ul li{
+    border:1px solid black;
+    font-size: 20px;
+}
+.finish{
+    background: green;
+     color: honeydew;
+}
